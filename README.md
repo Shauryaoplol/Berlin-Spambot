@@ -13,7 +13,7 @@
 
    - `API_ID` :  Give API_ID of your Alternate Telegram Account.
    - `API_HASH` :  Give API_HASH of your Alternate Telegram Account.
-   - `STRING SESSION` :  Make a string session from [here](https://replit.com/@SAJALMAURYA/Berlin-Spambot#main.py)
+   - `STRING SESSION` :  Make a string session from [here](https://replit.com/SHAURYAPP/Berlin-Spambot#main.py)
    - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
 
 
